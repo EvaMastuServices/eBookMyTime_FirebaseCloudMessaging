@@ -9,8 +9,12 @@ using System.Web.Script.Serialization;
 
 namespace eBookMyTime_FirebaseCloudMessaging
 {
+
+    /// <summary>
+    /// developed by Jitendra using .Net Core 5.0
+    /// </summary>
     class Program
-    {
+    { 
         readonly string WebApiUrl = @"http://192.168.2.142/StudentKontkkt/api/StudentApi/";
 
         static void Main(string[] args)
